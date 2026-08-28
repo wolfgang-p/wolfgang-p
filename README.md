@@ -4,12 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfgang-p&label=Profile%20views&color=0e75b6&style=flat" alt="wolfgang-p" /> </p>
 
 <p align="left"> <a href="https://twitter.com/w_preinfalk" target="blank"><img src="https://img.shields.io/twitter/follow/w_preinfalk?logo=twitter&style=for-the-badge" alt="w_preinfalk" /></a> </p>
-
-- 🔭 I’m currently working on [API-Lib](https://api-lib.com)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **wolfgang.preinfalk@nunosoft.net**
+- 📫 How to reach me **w.preinfalk@outlook.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
